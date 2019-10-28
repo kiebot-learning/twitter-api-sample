@@ -44,20 +44,5 @@
 			</form>";
 	}
 ?>
-<!-- <html>
-	<head>
-		<title>Twitter API Test</title>
-	</head>
-	<body>
-		<div>
-			<form method="POST">
-				<label>Enter Twitter screen name</label>
-				<input type="text" name="screen_name">
-				<button id="getUserDetails">GET USER DATA</button>
-			</form>
-		</div>
-		<div id="userData"></div>
-	</body>
-</html> -->
 
 
